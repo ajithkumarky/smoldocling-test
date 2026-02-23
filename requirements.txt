@@ -1,0 +1,5 @@
+torch
+transformers
+docling-core
+pytest
+Pillow
